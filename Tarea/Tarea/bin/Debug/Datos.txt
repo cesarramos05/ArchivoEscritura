@@ -1,0 +1,10 @@
+
+Nombre: Cesar
+Apellido Paterno: Ramos
+Apellido Materno: Portillo
+Edad: 25
+
+Nombre: Mario
+Apellido Paterno: Valdez
+Apellido Materno: Portillo
+Edad: 30

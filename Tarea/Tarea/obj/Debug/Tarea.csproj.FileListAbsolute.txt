@@ -1,0 +1,7 @@
+C:\Users\tec21\OneDrive\Documentos\GitHub\Tarea\Tarea\bin\Debug\Tarea.exe.config
+C:\Users\tec21\OneDrive\Documentos\GitHub\Tarea\Tarea\bin\Debug\Tarea.exe
+C:\Users\tec21\OneDrive\Documentos\GitHub\Tarea\Tarea\bin\Debug\Tarea.pdb
+C:\Users\tec21\OneDrive\Documentos\GitHub\Tarea\Tarea\obj\Debug\Tarea.csproj.AssemblyReference.cache
+C:\Users\tec21\OneDrive\Documentos\GitHub\Tarea\Tarea\obj\Debug\Tarea.csproj.CoreCompileInputs.cache
+C:\Users\tec21\OneDrive\Documentos\GitHub\Tarea\Tarea\obj\Debug\Tarea.exe
+C:\Users\tec21\OneDrive\Documentos\GitHub\Tarea\Tarea\obj\Debug\Tarea.pdb
